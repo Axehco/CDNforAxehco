@@ -92,7 +92,7 @@
 				context.textAlign = 'right';
 				context.textBaseline = 'bottom';
 				context.fillStyle = '#AAA';
-				context.fillText('TRHX\'S BLOG',this.x,this.y);
+				context.fillText('AXEHCO\'S BLOG',this.x,this.y);
 			}
 		});
 		//事件绑定
