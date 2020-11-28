@@ -1,1 +1,1 @@
-jsDeliver CDN for Axehco
+🌴jsDeliver CDN for AXEHCO'S BLOG
